@@ -1,6 +1,11 @@
 body {
-  font-size:30px;
+  font-size:15px;
+ 
 }
+
+   
+
+
 h2 {
   font-size:46px;
 }
@@ -8,6 +13,7 @@ h2 {
 .box_wrapper {
   display: flex;
   justify-content: center;
+  background-color: blueviolet;
 }
 .container1 h2 {
    color:yellow;
